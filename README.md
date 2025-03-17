@@ -1,4 +1,4 @@
-# INTERACTIVE-QUIZ-APPLICATION
+ # INTERACTIVE-QUIZ-APPLICATION
 
 COMPANY : CODTECH IT SOLUTIONS
 
@@ -45,4 +45,5 @@ Most importantly, being a part of this internship has been a great journey. I fe
 
 # OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/3dabfaa7-73d4-4659-847c-d270b4ede1a5)
 
